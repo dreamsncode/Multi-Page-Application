@@ -1,2 +1,27 @@
-# Multi-Page-Application
-A beginner-friendly Android Studio multi-activity app built using Kotlin and XML. This project includes an Even-Odd Checker, Factorial Calculator, and a Basic Calculator UI with activity navigation, responsive layouts, and modern Android UI design concepts.
+# Multi Activity Android App
+
+This is a beginner-friendly Android Studio project developed using **Kotlin** and **XML**. The application contains multiple mini utilities including:
+
+* Even-Odd Checker
+* Factorial Calculator
+* Basic Calculator
+
+## Features
+
+* Multi-Activity Navigation
+* Responsive XML Layouts
+* Modern UI Design
+* Button Click Handling
+* Dynamic TextView Updates
+* Calculator Logic Implementation
+* Kotlin-Based Android Development
+
+## Technologies Used
+
+* Android Studio
+* Kotlin
+* XML
+* LinearLayout & RelativeLayout
+* Intent Navigation
+
+This project was created to practice Android fundamentals, UI designing, and activity management while building real working applications.
